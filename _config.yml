@@ -291,6 +291,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+ # _Academic Services
+  - scope:
+      path: ""
+      type: academic services
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS

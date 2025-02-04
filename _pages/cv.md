@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.A in Communication, Fudan University, 2026 (expected)
-  *Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Internet and Sociological Research(Computational Social Science Method), Research Design and Academic Writing, Audience Analysis, Interpersonal Communication.
+  * Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Internet and Sociological Research(Computational Social Science Method), Research Design and Academic Writing, Audience Analysis, Interpersonal Communication.
   
 Conference Paper
 ======

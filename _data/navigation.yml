@@ -11,8 +11,8 @@ main:
   - title: "Research"
     url: /research/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Academic Services"
+    url: /post/
     
   - title: "CV"
     url: /cv/

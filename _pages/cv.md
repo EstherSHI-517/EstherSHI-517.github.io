@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* M.A in Communication, Fudan University, 2026 (expected)
+  *Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Internet and Sociological Research(Computational Social Science Method), Research Design and Academic Writing, Audience Analysis, Interpersonal Communication.
+  
+Conference Paper
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands (Completed Paper). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Investigating the mediation role of social trust between media usage and the acceptance of American Muslims
+  * PI: Assistant Professor Yu Tian (Ph.D. in Syracuse University)
+  * Corresponding author
+  * Search for Literature, Conducted paper draft and revise
+
+* A study on the measurement and influencing factors of gender stereotypes in chatbots
+  * Participant
+  * Advisor: Professor Baohua Zhou (Ph.D. in Fudan University)
+  * Collected Data, Revised Literature Review, Edited Codebook
+    
+* News value negotiation among multiple actors in data journalism production
+  * Leader, Participant
+  * Advisor: Professor Hongtao Li (Ph.D. in City University Of Hong Kong)
+  * Responsible for paper writing and in-depth interview, Collaborated with other 2 participants.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and Statistics: Python, Stata, R
+* Languages: Mandarin (Native), English (proficient), Hokkien (Native)
+* Applications: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Tableau, Visual Studio Code, SPSS
 
-Publications
+Fellowships and Awards 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Undergraduate First Prize Scholarship, Fudan University, 2023.10.
+* Undergraduate First Prize Scholarship, Fudan University, 2024.10.
+* Academic Innovation Star Scholarship, Fudan University, 2024.10.
+* Outstanding Student, Fudan University, 2023.10.
+* Outstanding Student, Fudan University, 2024.10.
+* Excellent Student Cadre, Fudan University, 2023.10.
+* First Prize of Fudan University English Public Speaking Contest, 2023.10.
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer, The 6th China International Import Expo, Shanghai, China, 2023.11.
+* Volunteer, Fudan Forum on “Communication and China”, Fudan University, School of Journalism, 2024,10.
+* Member of the Student’s Academic Society of School of Journalism, Fudan University，2023.3-
+* Head of Academic Department, Student Union, School of Journalism, Fudan University, 2023.9-2024.6.
+* Member of "SI YUAN" Leadership Training Program
+
+Professional Experience
+======
+* Shanghai United Media Group, The Paper, Department of Data Journalism, 2024.6-2024.11.
+  * Data Analysis Intern: Responsible for data mining, data visualization manuscript writing, completed 4 news articles, including one independently hosted news article.Volunteer, The 6th China International Import Expo, Shanghai, China, 2023.11.

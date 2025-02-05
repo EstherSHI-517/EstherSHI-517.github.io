@@ -13,18 +13,25 @@ Investigating the mediation role of social trust between media usage and the acc
 ======
 * PI: Assistant Professor Yu Tian (Ph.D. in Syracuse University)
 * Corresponding author
-* Search for Literature, Conducted paper draft and revise
+* Search for literature, conducted paper draft and revise
   
 A study on the measurement and influencing factors of gender stereotypes in chatbots
 ======
 * Participant
 * Advisor: Professor Baohua Zhou (Ph.D. in Fudan University)
-* Collected Data, Revised Literature Review, Edited Codebook
+* Collected Data, revised Literature Review, edited Codebook
 * The study focused on 30 social robots (15 male and 15 female) from three platforms: Xingye, Doubao, and Character AI. Data was collected through 8 open-ended questions and 11 closed-ended questions. The open-ended responses were analyzed using word frequency analysis, while the closed-ended responses were manually coded to explore the expression of gender stereotypes and the differences observed across different platforms and between male and female robots.
 
+investigates the evolution of sociological topics in China and the process of localization from 2003 to 2023
+======
+* Author
+* Advisor: Professor Ronggui Huang(Ph.D in City University of Hongkong)
+* Collected data, Conducted analysis, responsible for paper writing
+* The topics addressed within a discipline often reflect the trajectory of real-world development. This paper, from a social constructionist perspective, examines the debate on the localization of sociology. Through a mixed-methods analysis of articles published between 2003 and 2023 in Sociological Research and Social Sciences journals, it explores the shifts in sociological research topics and the trends of knowledge production localization and institutionalization. Using LDA topic modeling and trend analysis, along with author statistics, the study finds that during the localization process, the focus of Chinese sociological research has gradually shifted from macro-level to micro-level topics. Simultaneously, there has been a growing depth in the discussion of localization concepts and methods. The process of conceptualizing and institutionalizing localization has experienced phases of rapid development followed by a gradual deceleration.
+  
 News value negotiation among multiple actors in data journalism production
 ======
-* Leader, Participant
+* Leader, Author
 * Advisor: Professor Hongtao Li (Ph.D. in City University Of Hong Kong)
-* Responsible for paper writing and in-depth interview, Collaborated with other 2 participants.
+* Responsible for paper writing and in-depth interview, collaborated with other 2 participants.
 * The study starts from the theory of news values and news selection, focusing on the production process of data journalism. Through in-depth interviews, it explores how editors/reporters and designers understand news values in the visualization process, how negotiation based on this understanding occurs, and how the final visual product is presented. 

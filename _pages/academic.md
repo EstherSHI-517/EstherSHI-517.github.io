@@ -23,7 +23,7 @@ Peer Academic Seminar:[Sharing Experience on Bacholar Thesis](https://mp.weixin.
 Organize academic activities:
 =====
 * [The Balkanization of Online Communities](https://mp.weixin.qq.com/s/Sd43ItaODMiMgx8oq2zD4g)
- * Speaker: Prof. Jingtai Tang
+  * Speaker: Prof. Jingtai Tang
 * [How to conduct standardized social science research design](https://mp.weixin.qq.com/s/vJHabBabXoiTg_nqNavpuw)
- * Speaker: Dr. Tianchan Mao
+  * Speaker: Dr. Tianchan Mao
 * [Sharing experiences of undergraduate academic research projects](https://mp.weixin.qq.com/s/HHcjPNKI4hgHvZAIEPkMiQ)

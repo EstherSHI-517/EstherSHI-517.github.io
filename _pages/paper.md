@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-These blog posts can be viewed on Chinese social media platform Wechat.
 
 The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands
 =====

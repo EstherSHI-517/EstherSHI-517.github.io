@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Services"
+title: "University Services"
 permalink: /post/
 author_profile: true
 redirect_from:

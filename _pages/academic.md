@@ -15,7 +15,7 @@ Lecture Record: [International Publication Status and Prospect of Journalism Res
 * In this issue, we share a lecture by Prof. Lei Guo, Professor at the School of Journalism, Fudan University, on “The Status and Prospects of International Publication of Journalism Research”.
 In the lecture, Prof. Guo shared her understanding of the necessity of international publication in Chinese journalism, and introduced the international journals to choose from, the submission process, and the rules of international journals - do international journals emphasize more on theoretical articles or empirical research? What is the relationship between theory and method? Is it necessary to follow the research hotspots? ...... And in the live Q&A session, Prof. Guo also provided more specific suggestions for research geared towards international publication.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/post1.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Talks</div><img src='../images/post1.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Peer Academic Seminar:[Sharing Experience on Bacholar Thesis](https://mp.weixin.qq.com/s/fd89K3AlRFaUXiXEgkZ63w)
@@ -25,11 +25,11 @@ Peer Academic Seminar:[Sharing Experience on Bacholar Thesis](https://mp.weixin.
 
 Organize academic activities:
 =====
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/post2.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lecture</div><img src='../images/post2.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 * The Balkanization of Online Communities
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/post3.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Live</div><img src='../images/post3.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 * How to conduct standardized social science research design
 * Sharing experiences of undergraduate academic research projects

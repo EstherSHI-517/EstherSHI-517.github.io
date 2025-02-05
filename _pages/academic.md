@@ -8,24 +8,31 @@ redirect_from:
 ---
 
 {% include base_path %}
+These blog posts can be viewed on Chinese social media platform Wechat.
 
-Investigating the mediation role of social trust between media usage and the acceptance of American Muslims
-======
-* PI: Assistant Professor Yu Tian (Ph.D. in Syracuse University)
-* Corresponding author
-* Search for Literature, Conducted paper draft and revise
+Lecture Record: [International Publication Status and Prospect of Journalism Research](https://mp.weixin.qq.com/s/kKfe-MptwNYN-JQicXr_Zg)
+=====
+* In this issue, we share a lecture by Prof. Lei Guo, Professor at the School of Journalism, Fudan University, on “The Status and Prospects of International Publication of Journalism Research”.
+In the lecture, Prof. Guo shared her understanding of the necessity of international publication in Chinese journalism, and introduced the international journals to choose from, the submission process, and the rules of international journals - do international journals emphasize more on theoretical articles or empirical research? What is the relationship between theory and method? Is it necessary to follow the research hotspots? ...... And in the live Q&A session, Prof. Guo also provided more specific suggestions for research geared towards international publication.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/post1.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Peer Academic Seminar:[Sharing Experience on Bacholar Thesis](https://mp.weixin.qq.com/s/fd89K3AlRFaUXiXEgkZ63w)
+=====
+* Chen Weiman, a MA student majoring in Communication Studies in the School of Journalism, shared about her research. her revised thesis, *Journalists' Interpretation of Extreme Criticism and Dynamic Adaptation*,” was published.
+* How to “incubate” an undergraduate thesis in depth? What are the experiences and reflections of publishing a journal article for the first time? From selecting a topic to finalizing a draft, to revising and publishing it over and over again, Chen Weiman tells us through his personal research experience that a good research question cannot be separated from the in-depth condensation of empirical phenomena, in-depth dialogues with the journalism industry, and the profound accumulation of writing skills.
+
+Organize academic activities:
+=====
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/post2.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+* The Balkanization of Online Communities
   
-A study on the measurement and influencing factors of gender stereotypes in chatbots
-======
-* Participant
-* Advisor: Professor Baohua Zhou (Ph.D. in Fudan University)
-* Collected Data, Revised Literature Review, Edited Codebook
-* The study focused on 30 social robots (15 male and 15 female) from three platforms: Xingye, Doubao, and Character AI. Data was collected through 8 open-ended questions and 11 closed-ended questions. The open-ended responses were analyzed using word frequency analysis, while the closed-ended responses were manually coded to explore the expression of gender stereotypes and the differences observed across different platforms and between male and female robots.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/post3.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+* How to conduct standardized social science research design
+* Sharing experiences of undergraduate academic research projects
 
-News value negotiation among multiple actors in data journalism production
-======
-* Leader, Participant
-* Advisor: Professor Hongtao Li (Ph.D. in City University Of Hong Kong)
-* Responsible for paper writing and in-depth interview, Collaborated with other 2 participants.
-* The study starts from the theory of news values and news selection, focusing on the production process of data journalism. Through in-depth interviews, it explores how editors/reporters and designers understand news values in the visualization process, how negotiation based on this understanding occurs, and how the final visual product is presented. 
-
+Translating Journal Papers: Compilation of 3 selected papers from the May 2022 issue of New Media & Society (《新媒体与社会》). Posted on social media platforms
+=====

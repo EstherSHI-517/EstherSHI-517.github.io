@@ -12,10 +12,8 @@ These blog posts can be viewed on Chinese social media platform Wechat.
 
 Lecture Record: [International Publication Status and Prospect of Journalism Research](https://mp.weixin.qq.com/s/kKfe-MptwNYN-JQicXr_Zg)
 =====
-* In this issue, we share a lecture by Prof. Lei Guo, Professor at the School of Journalism, Fudan University, on “The Status and Prospects of International Publication of Journalism Research”.
+* In this issue, we share a public talk by Prof. Lei Guo, Professor at the School of Journalism, Fudan University, on “The Status and Prospects of International Publication of Journalism Research”.
 In the lecture, Prof. Guo shared her understanding of the necessity of international publication in Chinese journalism, and introduced the international journals to choose from, the submission process, and the rules of international journals - do international journals emphasize more on theoretical articles or empirical research? What is the relationship between theory and method? Is it necessary to follow the research hotspots? ...... And in the live Q&A session, Prof. Guo also provided more specific suggestions for research geared towards international publication.
-
-</div><img src='../images/post1.jpeg' alt="sym" width=400px></div>
 
 Peer Academic Seminar:[Sharing Experience on Bacholar Thesis](https://mp.weixin.qq.com/s/fd89K3AlRFaUXiXEgkZ63w)
 =====
@@ -24,11 +22,8 @@ Peer Academic Seminar:[Sharing Experience on Bacholar Thesis](https://mp.weixin.
 
 Organize academic activities:
 =====
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lecture</div><img src='../images/post2.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-* The Balkanization of Online Communities
-  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Live</div><img src='../images/post3.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-* How to conduct standardized social science research design
-* Sharing experiences of undergraduate academic research projects
+* [The Balkanization of Online Communities](https://mp.weixin.qq.com/s/Sd43ItaODMiMgx8oq2zD4g)
+ * Speaker: Prof. Jingtai Tang
+* [How to conduct standardized social science research design](https://mp.weixin.qq.com/s/vJHabBabXoiTg_nqNavpuw)
+ * Speaker: Dr. Tianchan Mao
+* [Sharing experiences of undergraduate academic research projects](https://mp.weixin.qq.com/s/HHcjPNKI4hgHvZAIEPkMiQ)

@@ -33,6 +33,3 @@ Organize academic activities:
 <div class='paper-box-text' markdown="1">
 * How to conduct standardized social science research design
 * Sharing experiences of undergraduate academic research projects
-
-Translating Journal Papers: Compilation of 3 selected papers from the May 2022 issue of New Media & Society (《新媒体与社会》). Posted on social media platforms
-=====

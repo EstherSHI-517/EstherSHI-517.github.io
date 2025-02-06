@@ -12,29 +12,18 @@ redirect_from:
 Education
 ======
 * M.A in Communication, Fudan University, 2026 (expected)
-  * Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Internet and Sociological Research(Computational Social Science Method), Research Design and Academic Writing, Audience Analysis, Interpersonal Communication.
+  * Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Research Design and Academic Writing.
   
 Conference Paper
 ======
-**Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands (Completed Paper). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
+**Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands[(Completed Paper)](/papers/). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
 
 Research experience
 ======
 
-* Investigating the mediation role of social trust between media usage and the acceptance of American Muslims
-  * PI: Assistant Professor Yu Tian (Ph.D. in Syracuse University)
-  * Corresponding author
-  * Search for Literature, Conducted paper draft and revise
-
-* A study on the measurement and influencing factors of gender stereotypes in chatbots
-  * Participant
-  * Advisor: Professor Baohua Zhou (Ph.D. in Fudan University)
-  * Collected Data, Revised Literature Review, Edited Codebook
-    
-* News value negotiation among multiple actors in data journalism production
-  * Leader, Participant
-  * Advisor: Professor Hongtao Li (Ph.D. in City University Of Hong Kong)
-  * Responsible for paper writing and in-depth interview, Collaborated with other 2 participants.
+* [Investigating the mediation role of social trust between media usage and the acceptance of American Muslims](/research/)
+* [A study on the measurement and influencing factors of gender stereotypes in chatbots](/research/)
+* [News value negotiation among multiple actors in data journalism production](/research/)
   
 Skills
 ======
@@ -49,10 +38,9 @@ Grants
 
 Fellowships and Awards 
 ======
-* Undergraduate First Prize Scholarship, Fudan University, 2023.10.
 * Undergraduate First Prize Scholarship, Fudan University, 2024.10.
 * Academic Innovation Star Scholarship, Fudan University, 2024.10.
-* Outstanding Student, Fudan University, 2023.10.
+* Undergraduate First Prize Scholarship, Fudan University, 2023.10.
 
 Service and leadership
 ======

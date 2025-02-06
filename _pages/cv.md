@@ -42,15 +42,17 @@ Skills
 * Languages: Mandarin (Native), English (proficient), Hokkien (Native)
 * Applications: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Tableau, Visual Studio Code, SPSS
 
+Grants
+======
+* Fudan University Undergraduate Research Grants Program, 2024
+* Fudan University Student Travel Grant for International Communication Association, 2025
+
 Fellowships and Awards 
 ======
 * Undergraduate First Prize Scholarship, Fudan University, 2023.10.
 * Undergraduate First Prize Scholarship, Fudan University, 2024.10.
 * Academic Innovation Star Scholarship, Fudan University, 2024.10.
 * Outstanding Student, Fudan University, 2023.10.
-* Outstanding Student, Fudan University, 2024.10.
-* Excellent Student Cadre, Fudan University, 2023.10.
-* First Prize of Fudan University English Public Speaking Contest, 2023.10.
 
 Service and leadership
 ======
@@ -58,7 +60,7 @@ Service and leadership
 * Volunteer, Fudan Forum on “Communication and China”, Fudan University, School of Journalism, 2024,10.
 * Member of the Student’s Academic Society of School of Journalism, Fudan University，2023.3-
 * Head of Academic Department, Student Union, School of Journalism, Fudan University, 2023.9-2024.6.
-* Member of "SI YUAN" Leadership Training Program
+* Member of "SI YUAN" Leadership Training Program, 2023-
 
 Professional Experience
 ======

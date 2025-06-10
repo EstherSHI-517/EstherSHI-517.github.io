@@ -48,6 +48,7 @@ Service and leadership
 ======
 * Volunteer, The 6th China International Import Expo, Shanghai, China, 2023.11.
 * Volunteer, Fudan Forum on “Communication and China”, Fudan University, School of Journalism, 2024,10.
+* * Volunteer, Shanghai Forum, Fudan University, School of Journalism, 2025,4.
 * Member of the Student’s Academic Society of School of Journalism, Fudan University，2023.3-
 * Head of Academic Department, Student Union, School of Journalism, Fudan University, 2023.9-2024.6.
 

@@ -13,6 +13,7 @@ Education
 ======
 * B.A in Communication, Fudan University, 2026 (expected)
   * Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Research Design and Academic Writing.
+  * Member of "SI YUAN" leadership program
   
 Conference Paper
 ======
@@ -21,15 +22,16 @@ Conference Paper
 Research experience
 ======
 
+* [Trade-off in fact-checking videos: role of AIGC warning label in credibility judgement and social media engagement](/research/)
 * [Investigating the mediation role of social trust between media usage and the acceptance of American Muslims](/research/)
 * [A study on the measurement and influencing factors of gender stereotypes in chatbots](/research/)
 * [News value negotiation among multiple actors in data journalism production](/research/)
   
 Skills
 ======
-* Programming and Statistics: Python, Stata, R
+* Programming and Statistics: Python, Stata, R， IBM SPSS
 * Languages: Mandarin (Native), English (proficient), Hokkien (Native)
-* Applications: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Tableau, Visual Studio Code, SPSS
+* Applications: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Tableau, Visual Studio Code
 
 Grants
 ======
@@ -48,7 +50,6 @@ Service and leadership
 * Volunteer, Fudan Forum on “Communication and China”, Fudan University, School of Journalism, 2024,10.
 * Member of the Student’s Academic Society of School of Journalism, Fudan University，2023.3-
 * Head of Academic Department, Student Union, School of Journalism, Fudan University, 2023.9-2024.6.
-* Member of "SI YUAN" Leadership Training Program, 2023-
 
 Professional Experience
 ======

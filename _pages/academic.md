@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 These blog posts can be viewed on Chinese social media platform Wechat.
 
+Peer Academic Seminar:[Sharing Experience about Academic Writing](https://mp.weixin.qq.com/s/P-FRyvn_Ca1P5b7y849qEA)
+=====
+* This lecture was designed to share experience with students who had just begun their university studies. As the main speaker, I introduced the process of writing an empirical research paper in communication studies. I explained how to conduct a literature review, formulate research questions and hypotheses, and present research findings. I also provided examples of academic papers that students could use as references.
+
+
 Lecture Record: [International Publication Status and Prospect of Journalism Research](https://mp.weixin.qq.com/s/kKfe-MptwNYN-JQicXr_Zg)
 =====
 * In this issue, we share a public talk by Prof. Lei Guo, Professor at the School of Journalism, Fudan University, on “The Status and Prospects of International Publication of Journalism Research”.

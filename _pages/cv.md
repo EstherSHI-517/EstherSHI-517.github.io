@@ -19,6 +19,10 @@ Conference Paper
 ======
 **Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands[(Completed Paper)](/papers/). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
 
+Xiong, S., Guo, L., **Shi, Y.**, Min, S. Luo, Y & Chen, Y. (2025, Oct). Political homogeneity and the
+dissemination of misinformation on Mastodon and X [Extended Abstract](/papers/). ICA Regional Conference,
+Hefei, China. (Received Top Paper Award)
+
 Research experience
 ======
 
@@ -29,7 +33,7 @@ Research experience
   
 Skills
 ======
-* Programming and Statistics: Python, Stata, R， IBM SPSS
+* Programming and Statistics: Python, Stata, R， IBM SPSS, Mplus
 * Languages: Mandarin (Native), English (proficient), Hokkien (Native)
 * Applications: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Tableau, Visual Studio Code
 
@@ -40,17 +44,17 @@ Grants
 
 Fellowships and Awards 
 ======
+* China National Scholarship, 2025.10
 * Undergraduate First Prize Scholarship, Fudan University, 2024.10.
-* Academic Innovation Star Scholarship, Fudan University, 2024.10.
 * Undergraduate First Prize Scholarship, Fudan University, 2023.10.
 
 Service and leadership
 ======
 * Volunteer, The 6th China International Import Expo, Shanghai, China, 2023.11.
-* Volunteer, Fudan Forum on “Communication and China”, Fudan University, School of Journalism, 2024,10.
-* * Volunteer, Shanghai Forum, Fudan University, School of Journalism, 2025,4.
-* Member of the Student’s Academic Society of School of Journalism, Fudan University，2023.3-
-* Head of Academic Department, Student Union, School of Journalism, Fudan University, 2023.9-2024.6.
+* Volunteer, Shanghai Forum, Fudan University, School of Journalism, 2025,4.
+* Member of Fudan Engine(a WeChat-based online platform for sharing communication research), Fudan University，2023.3-
+* Student Volunteer, ICA25, Denver, CO. 2025.6
+* Reviewer of ICA25
 
 Professional Experience
 ======

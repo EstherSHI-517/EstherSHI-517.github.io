@@ -303,7 +303,7 @@ defaults:
  # _Papers
   - scope:
       path: ""
-      type: papers
+      type: Conference Presentations
     values:
       layout: single
       author_profile: true

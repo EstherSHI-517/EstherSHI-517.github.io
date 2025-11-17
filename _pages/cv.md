@@ -20,7 +20,7 @@ Conference Paper
 **Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands[(Completed Paper)](/papers/). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
 
 Xiong, S., Guo, L., **Shi, Y.**, Min, S. Luo, Y & Chen, Y. (2025, Oct). Political homogeneity and the
-dissemination of misinformation on Mastodon and X [Extended Abstract](/papers/). ICA Regional Conference,
+dissemination of misinformation on Mastodon and X [(Extended Abstract)](/papers/). ICA Regional Conference,
 Hefei, China. (Received Top Paper Award)
 
 Research experience
